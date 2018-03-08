@@ -1,2 +1,0 @@
-# mienvironment
-miENvironment to BEL
